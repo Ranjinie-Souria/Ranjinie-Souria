@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/32a93298-f178-4b99-809f-ddfc71fce54c" alt="Ranji Banner" width="50%">
+</p>
 
-<!--
-**Ranjinie-Souria/Ranjinie-Souria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there, I'm Ranji! 🌙</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎮 Fullstack developer  
+💻 Working mostly with Angular and Java  
+🐾 Lover of pixel art and magical girls  
+
+## 🩷 Non-interesting facts about me
+
+- 🌸 I find slow connections more beautiful 🌈  
+- 🐈 I enjoy crafting and creating things ! ✨ 
+- 🎧 Big Vocaloid fan (especially Miku !) 🎶
+
+## 📫 Where to find me
+
+[![Itch.io](https://img.shields.io/badge/itch.io-ff69b4?style=flat&logo=itch.io&logoColor=white)](https://ranji.itch.io/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ranjinie)  
+[![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/Ranjinie)  
+
+<!-- Optional GitHub stats section -->
+<!-- 
+![Ranji's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
 -->
