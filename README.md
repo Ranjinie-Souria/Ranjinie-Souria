@@ -4,16 +4,9 @@
 
 <h1 align="center">Hey there, I'm Ranji! 🌙</h1>
 
-
 🎮 Fullstack developer  
 💻 Working mostly with Angular and Java  
 🐾 Lover of pixel art and magical girls  
-
-## 🩷 Non-interesting facts about me
-
-- 🌸 I find slow connections more beautiful 🌈  
-- 🐈 I enjoy crafting and creating things ! ✨ 
-- 🎧 Big Vocaloid fan (especially Miku !) 🎶
 
 ## 📫 Where to find me
 
